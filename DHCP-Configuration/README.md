@@ -19,6 +19,8 @@ default-router 10.0.0.1
 dns-server 8.8.8.8
 <img width="398" height="40" alt="image" src="https://github.com/user-attachments/assets/25080607-45ca-4497-b834-09d37f6d6ce4" />
 
+<img width="438" height="67" alt="image" src="https://github.com/user-attachments/assets/97fec82c-0dfc-4e70-a7fe-6a18a9cac86f" />
+
 
 I used the following settings:
 
@@ -29,9 +31,11 @@ I used the following settings:
 | Subnet Mask | 255.255.255.0 |
 | Default Gateway | 10.0.0.1 |
 | DNS Server | 8.8.8.8 |
-<img width="432" height="84" alt="Screenshot 2026-11-08 022836" src="https://github.com/user-attachments/assets/0d7e5cb7-25ad-44a9-bb7d-4084d7ee82cf" />
+<img width="452" height="55" alt="image" src="https://github.com/user-attachments/assets/c4a4268f-2fd9-4b21-b923-7764c26b9fbf" />
+
 
 ## 2. Excluding the Default Gateway
+<img width="455" height="33" alt="image" src="https://github.com/user-attachments/assets/4e56f94e-0528-4e99-a4c5-651895c16aa4" />
 
 I also excluded the default gateway address from the DHCP address pool.
 
