@@ -17,7 +17,8 @@ ip dhcp pool HOME_SERVER
 network 10.0.0.0 255.255.255.0
 default-router 10.0.0.1
 dns-server 8.8.8.8
-<img width="305" height="38" alt="Screenshot 2026-11-08 022913" src="https://github.com/user-attachments/assets/03f2b87f-e377-4c0d-96e2-c73a84515a4d" />
+<img width="398" height="40" alt="image" src="https://github.com/user-attachments/assets/25080607-45ca-4497-b834-09d37f6d6ce4" />
+
 
 I used the following settings:
 
