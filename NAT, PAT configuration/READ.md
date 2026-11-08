@@ -42,7 +42,8 @@ I used the `overload` command because I wanted multiple devices on my lab networ
 
 This completed the NAT/PAT configuration steps. My next step was to verify the translations and test connectivity from a device on my lab network.
 
-<img width="733" height="253" alt="Screenshot 2026-11-08 031542" src="https://github.com/user-attachments/assets/928617ef-3f05-4a6e-9221-9cf0218ffc5a" />
+<img width="697" height="323" alt="image" src="https://github.com/user-attachments/assets/032fb71a-e826-4844-99d0-f861c29214a9" />
+
 
 
 
