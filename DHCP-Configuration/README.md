@@ -81,7 +81,7 @@ This project gave me hands-on experience configuring a DHCP server on a Cisco ro
 
 I practiced creating a DHCP pool, configuring the default gateway and DNS server, excluding a reserved address, and checking the IPv4 settings assigned to a client.
 
-I had issues with the DHCP SCREENSHOTS. T\I UOLOAD THEM HERE AS WELL.
+I had issues with the DHCP SCREENSHOTS. I PUT THEM HERE AS WELL.
 <img width="398" height="40" alt="Screenshot 2026-11-08 024431" src="https://github.com/user-attachments/assets/b7ba1385-1b1c-45ba-8a37-3dc2e04c7862" />
 <img width="438" height="67" alt="Screenshot 2026-11-08 024728" src="https://github.com/user-attachments/assets/e26842f3-8a3c-4a99-90e0-2f167a57c8b6" />
 <img width="452" height="55" alt="Screenshot 2026-11-08 024807" src="https://github.com/user-attachments/assets/1200b779-6a50-4312-af47-9a25364f2737" />
