@@ -1,2 +1,21 @@
-# Network-Engineering-Portfolio-Cisco-Routing-Switching-Security-Troubleshooting
-Hands-on network engineering projects using Cisco routers and switches. Includes network configuration, routing, switching, DHCP, NAT/PAT, VLANs, network security, and troubleshooting in physical and simulated lab environments.
+# Network Engineering Portfolio
+
+This repository contains my hands-on networking projects using Cisco routers, switches, and network simulation tools.
+
+My projects focus on configuring, testing, and troubleshooting network infrastructure.
+
+## Technical Areas
+
+- Routing and Switching
+- IPv4 Addressing and Subnetting
+- DHCP and DNS
+- NAT and PAT
+- VLANs and Trunking
+- Access Control Lists (ACLs)
+- Network Security
+- Network Troubleshooting
+
+## Lab Environment
+
+I use physical Cisco networking equipment and Cisco Packet Tracer to practice network configurations and troubleshoot connectivity problems.
+
