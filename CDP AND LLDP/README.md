@@ -1,4 +1,4 @@
-Why I did this lab
+Why I did this lab?
 I built this network in Cisco Packet Tracer to practice finding out which devices are connected to which switch ports. In a larger network, a new engineer might take over without knowing where every cable goes. I wanted to see how I could use the information from the devices themselves to identify the connections instead of guessing.
 
 I started with a switch, a router, four PCs, and a laptop. My first topology had the devices connected but did not show the switch port numbers or IP addresses.
